@@ -10,4 +10,4 @@ Executable file and resource files are in /Release
 Source code is in /TheFinal
 
 Scene preview  
-![pic01]("")
+![pic01](https://raw.githubusercontent.com/HKyang07/Simple-opengl-scene-with-shoot-game-extension/master/Release/grab.bmp)
