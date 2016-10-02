@@ -6,7 +6,7 @@ Press X to start and end game, then the camera will be fixed and use mouse click
 I add some funny sound effect :)
 
 Build in Visual Studio 2013, require external system glut.h  
-Executable file and resource files are in /Release
+Executable file and resource files are in /Release  
 Source code is in /TheFinal
 
 Scene preview  
